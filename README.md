@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋  
+I'm Khushal Kumar Badaya  
 
-<!--
-**KhushalBadaya/KhushalBadaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year B.Tech Student at IIIT Nagpur.
 
-Here are some ideas to get you started:
+🚩 Things I'm Currently Learning
+  - 🌐 Front-End Web Development through projects  
+  - 💻 Data Structures & Algorithms in **C++**  
+  - 🔐 Cybersecurity on **TryHackMe**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack: HTML • CSS • JavaScript • C++
+
+🤝 Open to Collaboration
+  I’m always happy to:
+    - Contribute to beginner-friendly projects  
+    - Learn with others  
+    - Work in teams and share knowledge  
+
+
+📧 Reach me anytime
+  ✉️ khushal.badaya@gmail.com  
+
+🎯 Goals
+  - Build strong core fundamentals in Computer Science  
+  - Contribute to real-world and open-source projects  
+  - Learn by doing and improve consistently every day  
+
+😁 Fun Note
+  You’ll definitely enjoy working with me — just give it a try!
+
