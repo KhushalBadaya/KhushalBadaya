@@ -2,12 +2,13 @@
 
 I'm **Khushal Kumar Badaya**
 
-🎓 First Year B.Tech Student at IIIT Nagpur.
+🎓 Second Year B.Tech Student at IIIT Nagpur.
 
 📌 Things I'm Currently Learning
-- 🌐 Front-End & MERN Stack Web Development through projects
+- 🌐 Port Swigger Labs
 - 💻 Data Structures & Algorithms in **C++**
 - 🔐 Cybersecurity on **TryHackMe**
+- 🐞 Hunting prism
 
 🤝 Open to Collaboration — I'm always happy to:
 - Contribute to beginner-friendly projects
